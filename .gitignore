@@ -1,2 +1,3 @@
 local.env
 .ipynb_checkpoints
+*.pdf
